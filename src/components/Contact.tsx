@@ -70,7 +70,7 @@ export default function Contact() {
         </motion.div>
 
         <div className="grid md:grid-cols-2 gap-8">
-          {/* EZ CNSI */}
+          {/* EZ NEXUS */}
           <motion.div
             initial={{ opacity: 0, y: 30 }}
             whileInView={{ opacity: 1, y: 0 }}
@@ -130,7 +130,7 @@ export default function Contact() {
 
       <footer className="w-full border-t border-navy-800 pt-8 pb-4 mt-16 text-gray-400 text-xs md:text-sm">
         <div className="max-w-7xl mx-auto px-6 md:px-12 flex justify-center text-center">
-          <p className="text-gray-500 text-xs">&copy; 2026 EZ CNSI. All rights reserved.</p>
+          <p className="text-gray-500 text-xs">&copy; 2026 EZ NEXUS. All rights reserved.</p>
         </div>
       </footer>
     </section>

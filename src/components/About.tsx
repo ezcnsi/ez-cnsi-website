@@ -43,7 +43,7 @@ export default function About() {
             <div className="absolute left-[11px] md:left-[19px] top-8 bottom-8 w-[2px] bg-gradient-to-b from-royal-blue/50 via-gray-200 to-gray-200"></div>
 
             <div className="space-y-12">
-              {/* EZ CNSI */}
+              {/* EZ NEXUS */}
               <motion.div 
                 initial={{ opacity: 0, y: 30 }}
                 whileInView={{ opacity: 1, y: 0 }}

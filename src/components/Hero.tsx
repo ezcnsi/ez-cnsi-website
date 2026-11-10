@@ -4,7 +4,7 @@ import { ChevronDown } from 'lucide-react';
 
 const slides = [
   { 
-    title: "Your Business Partner EZ CNSI", 
+    title: "Your Business Partner EZ NEXUS", 
     subtitle: "Trusted digital partner for public information systems",
     image: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1920&auto=format&fit=crop"
   },
