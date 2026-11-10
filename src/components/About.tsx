@@ -55,7 +55,7 @@ export default function About() {
                 <div className="absolute left-0 md:left-[8px] top-8 w-6 h-6 bg-white border-[4px] border-royal-blue rounded-full shadow-md z-10 group-hover:scale-125 group-hover:bg-royal-blue transition-all duration-300"></div>
                 
                 <div className="bg-white p-8 md:p-10 rounded-3xl shadow-[0_8px_30px_rgb(0,0,0,0.04)] border border-gray-100 group-hover:shadow-[0_8px_30px_rgb(0,0,0,0.08)] group-hover:border-royal-blue/20 transition-all duration-300">
-                  <h4 className="text-2xl md:text-3xl font-bold text-navy-900 mb-3 group-hover:text-royal-blue transition-colors">(주)이지씨엔에스아이</h4>
+                  <h4 className="text-2xl md:text-3xl font-bold text-navy-900 mb-3 group-hover:text-royal-blue transition-colors">(주)이지넥서스</h4>
                   <p className="text-gray-500 font-medium text-sm md:text-base mb-8 pb-6 border-b border-gray-100">공공기관 정보시스템 구축 및 운영</p>
                   
                   <ul className="space-y-6">
@@ -97,7 +97,7 @@ export default function About() {
                   <ul className="space-y-6">
                     <li className="flex flex-col sm:flex-row sm:gap-6">
                       <span className="text-royal-blue font-bold font-mono text-lg w-24 shrink-0">2024.01</span>
-                      <span className="text-gray-700 font-medium mt-1 sm:mt-0 leading-relaxed">법인 설립<br/>(㈜이지씨엔에스아이 출자 법인)</span>
+                      <span className="text-gray-700 font-medium mt-1 sm:mt-0 leading-relaxed">법인 설립<br/>(㈜이지넥서스 출자 법인)</span>
                     </li>
                     <li className="flex flex-col sm:flex-row sm:gap-6">
                       <span className="text-royal-blue font-bold font-mono text-lg w-24 shrink-0">2025.12</span>

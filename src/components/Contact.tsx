@@ -83,7 +83,7 @@ export default function Contact() {
             </div>
             <div className="p-8 flex-grow">
               <div className="mb-6 h-12 md:h-14">
-                <img src="logo.png" alt="(주)이지씨엔에스아이 로고 - 공공 정보화 및 인공지능 시스템 전문기업" className="h-full object-contain object-left" referrerPolicy="no-referrer" />
+                <img src="logo.png" alt="(주)이지넥서스 로고 - 공공 정보화 및 인공지능 시스템 전문기업" className="h-full object-contain object-left" referrerPolicy="no-referrer" />
               </div>
               <div className="space-y-4 text-gray-300 text-sm">
                 <div className="flex items-start gap-3">
