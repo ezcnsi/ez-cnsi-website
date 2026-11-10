@@ -111,7 +111,7 @@ export default function Contact() {
             </div>
             <div className="p-8 flex-grow">
               <div className="mb-6 h-12 md:h-14">
-                <img src="https://cdn.imweb.me/upload/S202412123c3b63e7f7510/c7622c89f8111.png" alt="(주)이지오름 로고 - 인공지능 기반 시스템 및 R&D" className="h-full object-contain object-left" referrerPolicy="no-referrer" />
+                <img src="logo.png" alt="(주)이지오름 로고 - 인공지능 기반 시스템 및 R&D" className="h-full object-contain object-left" referrerPolicy="no-referrer" />
               </div>
               <div className="space-y-4 text-gray-300 text-sm">
                 <div className="flex items-start gap-3">
