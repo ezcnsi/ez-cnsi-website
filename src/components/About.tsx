@@ -75,6 +75,10 @@ export default function About() {
                       <span className="text-royal-blue font-bold font-mono text-lg w-24 shrink-0">2023</span>
                       <span className="text-gray-700 font-medium mt-1 sm:mt-0">현 사옥 이전</span>
                     </li>
+                    <li className="flex flex-col sm:flex-row sm:gap-6">
+                      <span className="text-royal-blue font-bold font-mono text-lg w-24 shrink-0">2026</span>
+                      <span className="text-gray-700 font-medium mt-1 sm:mt-0 leading-relaxed">법인명 변경 /<br/>(주)이지씨엔에스아이 → (주)이지넥서스</span>
+                    </li>                  
                   </ul>
                 </div>
               </motion.div>
